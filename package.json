@@ -1,0 +1,12 @@
+{
+  "name": "vizreview",
+  "version": "1.0.0",
+  "description": "VizReview SDK for javascript - Visual regression testing made simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VizReview",
+  "git": "https://github.com/VizReview/vizreview-js",
+  "license": "SDK"
+}
